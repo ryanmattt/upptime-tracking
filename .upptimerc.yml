@@ -7,8 +7,6 @@ sites:
     url: https://watch.bulbmin.com
   - name: Ryan Rosenblatt Site
     url: https://ryanrosenblatt.com
-  - name: Bulbmin Dev Site
-    url: https://bulbmin.com
   - name: SIMCON Dashboard
     url: https://ursga.com/simcon
   - name: Nara PvP Minecraft Server

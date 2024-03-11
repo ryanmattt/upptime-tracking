@@ -11,11 +11,11 @@ sites:
     url: https://bulbmin.com
   - name: SIMCON Dashboard
     url: https://ursga.com/simcon
-  - name: Nara PvP Server
+  - name: Nara PvP Minecraft Server
     check: "tcp-ping"
     url: naraclickies.online
    # port: 25575
-  - name: URSGA Server
+  - name: URSGA Minecraft Server
     check: "tcp-ping"
     url: mc.ursga.com
     #port: $SERVER_PORT
@@ -27,8 +27,8 @@ status-website:
   cname: upptime.ryanrosenblatt.com
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status Site 
-  introTitle: "Dashboard for viewing the uptime of my projects"
-  introMessage: Hi! This is normally just for me to check-in but if you see a project down please feel free to contact me at ryan@ryanrosenblatt.com. This is ran by upptime/gh pages, [you can get setup your own here](https://github.com/upptime/upptime)
+  introTitle: "Project Uptime Dashboard"
+  introMessage: Hi! This is just for me to check-in on my sites/servers but if you see a project down please feel free to contact me at ryan@ryanrosenblatt.com. This is ran by upptime/gh pages, [you can get setup your own here](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /

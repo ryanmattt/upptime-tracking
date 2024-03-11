@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/watch.bulbmin.com.ico",
     "slug": "watch-bulbmin",
     "status": "down",
-    "uptime": "1.12%",
-    "uptimeDay": "1.12%",
-    "uptimeWeek": "1.12%",
-    "uptimeMonth": "1.12%",
-    "uptimeYear": "1.12%",
+    "uptime": "0.14%",
+    "uptimeDay": "0.14%",
+    "uptimeWeek": "0.14%",
+    "uptimeMonth": "0.14%",
+    "uptimeYear": "0.14%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-11": 43
+      "2024-03-11": 358
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://ryanrosenblatt.com",
     "icon": "https://icons.duckduckgo.com/ip3/ryanrosenblatt.com.ico",
     "slug": "ryan-rosenblatt-site",
-    "status": "down",
-    "uptime": "3.46%",
-    "uptimeDay": "3.46%",
-    "uptimeWeek": "3.46%",
-    "uptimeMonth": "3.46%",
-    "uptimeYear": "3.46%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "1.54%",
+    "uptimeDay": "1.54%",
+    "uptimeWeek": "1.54%",
+    "uptimeMonth": "1.54%",
+    "uptimeYear": "1.54%",
+    "time": 642,
+    "timeDay": 642,
+    "timeWeek": 642,
+    "timeMonth": 642,
+    "timeYear": 642,
     "dailyMinutesDown": {
-      "2024-03-11": 42
+      "2024-03-11": 353
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bulbmin.com.ico",
     "slug": "bulbmin-dev-site",
     "status": "down",
-    "uptime": "3.60%",
-    "uptimeDay": "3.60%",
-    "uptimeWeek": "3.60%",
-    "uptimeMonth": "3.60%",
-    "uptimeYear": "3.60%",
+    "uptime": "0.42%",
+    "uptimeDay": "0.42%",
+    "uptimeWeek": "0.42%",
+    "uptimeMonth": "0.42%",
+    "uptimeYear": "0.42%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-11": 40
+      "2024-03-11": 355
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ursga.com.ico",
     "slug": "simcon-dashboard",
     "status": "down",
-    "uptime": "1.24%",
-    "uptimeDay": "1.24%",
-    "uptimeWeek": "1.24%",
-    "uptimeMonth": "1.24%",
-    "uptimeYear": "1.24%",
+    "uptime": "0.14%",
+    "uptimeDay": "0.14%",
+    "uptimeWeek": "0.14%",
+    "uptimeMonth": "0.14%",
+    "uptimeYear": "0.14%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-11": 40
+      "2024-03-11": 355
     }
   },
   {

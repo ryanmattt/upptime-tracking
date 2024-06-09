@@ -52,9 +52,9 @@
     "url": "https://ursga.com/simcon",
     "icon": "https://icons.duckduckgo.com/ip3/ursga.com.ico",
     "slug": "simcon-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
@@ -64,6 +64,7 @@
     "timeMonth": 196,
     "timeYear": 181,
     "dailyMinutesDown": {
+      "2024-06-09": 0,
       "2024-03-11": 391
     }
   },

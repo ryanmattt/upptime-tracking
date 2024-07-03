@@ -54,18 +54,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ursga.com.ico",
     "slug": "simcon-dashboard",
     "status": "down",
-    "uptime": "79.17%",
+    "uptime": "78.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "23.07%",
-    "uptimeYear": "79.17%",
+    "uptimeMonth": "20.69%",
+    "uptimeYear": "78.67%",
     "time": 181,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 184,
     "timeYear": 181,
     "dailyMinutesDown": {
-      "2024-07-03": 77,
+      "2024-07-03": 1119,
       "2024-07-02": 1440,
       "2024-07-01": 1440,
       "2024-06-30": 1440,
@@ -98,9 +98,9 @@
     "url": "naraclickies.online",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nara-pv-p-minecraft-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -109,7 +109,9 @@
     "timeWeek": 3,
     "timeMonth": 4,
     "timeYear": 4,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-03": 0
+    }
   },
   {
     "name": "URSGA Minecraft Server",

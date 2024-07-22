@@ -57,7 +57,7 @@
     "uptime": "76.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "41.24%",
+    "uptimeMonth": "41.35%",
     "uptimeYear": "76.97%",
     "time": 184,
     "timeDay": 195,
@@ -104,9 +104,9 @@
     "url": "naraclickies.online",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nara-pv-p-minecraft-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "97.78%",
+    "uptimeDay": "97.84%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.95%",
@@ -116,6 +116,7 @@
     "timeMonth": 5,
     "timeYear": 5,
     "dailyMinutesDown": {
+      "2024-07-22": 0,
       "2024-07-21": 32,
       "2024-07-04": 25,
       "2024-07-03": 40

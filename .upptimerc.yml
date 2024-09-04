@@ -9,13 +9,7 @@ sites:
     url: https://ryanrosenblatt.com
   - name: SIMCON Dashboard
     url: https://ursga.com/simcon
-  - name: Nara PvP Minecraft Server
-    check: "tcp-ping"
-    url: naraclickies.online
    # port: 25575
-  - name: URSGA Minecraft Server
-    check: "tcp-ping"
-    url: mc.ursga.com
     #port: $SERVER_PORT
 
 status-website:
